@@ -2,6 +2,8 @@
 - This is simple Stopwatch android app to learn & explore about Android activities
 - Used methods such as onStart(), onStop(), onPause(), onResume(), onSaveInstanceState and more.
 
+<img src="https://github.com/lirveaa/Stopwatch/blob/main/stopwatch_app_screenshot.png" width="500" height="800" />
+
 ## Tech Stack:
 - Java version 1.8
 - compileSdkVersion 33
